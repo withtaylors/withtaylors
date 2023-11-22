@@ -1,11 +1,11 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeon's%20GitHub%20✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 <h3>☁️My Github Stats☁️</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=withtaylors&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=withtaylors&layout=compact&langs_count=8&card_width=320" />
 </p>
 <br>
 <h3>☁️ DEV's log ☁️</h3>
@@ -28,7 +28,6 @@
 </div>
 <h3>☁️ Tech Stack ☁️</h3>
 <div style="display:flex; flex-direction:row;">
-      <img src="https://img.shields.io/badge/?style=for-the-badge&logo=React&logoColor=white"> 
     <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=Java&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 

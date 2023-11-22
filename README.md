@@ -19,7 +19,7 @@
 <h3>☁️ Contact ☁️</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:cloudnerjy@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
 </div>
 <h3>☁️ Tech Stack ☁️</h3>

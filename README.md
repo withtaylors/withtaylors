@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeon's%20GitHub%20✨&nbsp&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---

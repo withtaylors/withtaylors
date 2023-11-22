@@ -7,6 +7,7 @@
 <h3>☁️My Github Stats☁️</h3>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true&bg_color=00000000)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <br>

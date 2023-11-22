@@ -5,7 +5,7 @@
 <h3>☁️My Github Stats☁️</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors)]
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withtaylors&repo=convoychat" />
 </p>
 
 <h3>☁️ DEV's log ☁️</h3>

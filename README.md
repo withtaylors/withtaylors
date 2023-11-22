@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeon's%20GitHub%20✨&nbsp&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-<h3>☁️My Github Status☁️</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
 </p>

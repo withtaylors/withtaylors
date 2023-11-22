@@ -5,9 +5,10 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithtaylors%2Fhit-counter&count_bg=%23B5E2FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true&theme=compact"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&langs_count=10&layout=compact)]()
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 <br>
 
 <h3 align="center">💻 DEV's log 💻</h3>

@@ -9,9 +9,6 @@
 
 <h3>☁️ DEV's log ☁️</h3>
 <div style="display:flex; flex-direction:row;">
-    <a href="https://jenny1002.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&theme=transparent"> 
-    </a>
     <a href="https://www.notion.so/Jiyeon-Park-216bfd1fbdc44031b68d627ca18cb0a2">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=Notion&logoColor=white"> 
     </a>

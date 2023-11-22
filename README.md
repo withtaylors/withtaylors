@@ -6,7 +6,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
 </p>
-#
+
 <h3>☁️ DEV's log ☁️</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://jenny1002.tistory.com/">

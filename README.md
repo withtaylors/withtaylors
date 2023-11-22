@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=withtaylors&layout=compact&langs_count=8&card_width=320" />
 </p>
-
+<br>
 <h3>☁️ DEV's log ☁️</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://jenny1002.tistory.com/">
@@ -25,7 +25,7 @@
     <a href="mailto:cloudnerjy@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+</div>
 <h3>☁️ Tech Stack ☁️</h3>
 <div style="display:flex; flex-direction:row;">
       <img src="https://img.shields.io/badge/?style=for-the-badge&logo=React&logoColor=white"> 

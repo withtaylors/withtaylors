@@ -17,7 +17,6 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
-
 <h3>☁️ Contact ☁️</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/with_jyp/">
@@ -27,7 +26,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
 <h3>☁️ Tech Stack ☁️</h3>
 <div style="display:flex; flex-direction:row;">
       <img src="https://img.shields.io/badge/?style=for-the-badge&logo=React&logoColor=white"> 

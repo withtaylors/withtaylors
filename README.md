@@ -16,12 +16,6 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=Notion&logoColor=white"> 
     </a>
 </div>
-<h3>☁️ Contact ☁️</h3>
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:cloudnerjy@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
 <h3>☁️ Tech Stack ☁️</h3>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 

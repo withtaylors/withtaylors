@@ -9,7 +9,7 @@
  
 <br>
 
-## 💻 DEV's log 💻
+<h3 align="center">💻 DEV's log 💻</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://jenny1002.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -20,7 +20,7 @@
 </div><br>
 
  
-## 📞 Contact 📞
+<h3 align="center"> 📞 Contact 📞</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/with_jyp/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -30,7 +30,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+<h3 align="center"> 🔨 Tech Stack 🔨</h3>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->

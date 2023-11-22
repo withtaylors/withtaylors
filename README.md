@@ -4,8 +4,8 @@
 ---
 <h3>☁️My Github Stats☁️</h3>
 <p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=withtaylors&show_icons=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors)]
 </p>
 
 <h3>☁️ DEV's log ☁️</h3>

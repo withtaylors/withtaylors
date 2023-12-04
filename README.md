@@ -5,7 +5,7 @@
 <h3>☁️ DEV's log ☁️</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/Jiyeon-Park-216bfd1fbdc44031b68d627ca18cb0a2">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=Notion&logoColor=white"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&langs_count=10&layout=compact">
     </a>
 </div>
 <h3>☁️ Tech Stack ☁️</h3>

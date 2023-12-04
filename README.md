@@ -36,7 +36,7 @@
 <h3>☁️My Language☁️</h3>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&layout=donut&show_icons=true&count_private=true&exclude_repo=Algorithm_SWEA" width=200px/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&layout=donut&show_icons=true&count_private=true&exclude_repo=Algorithm_SWEA" width=400px/>
   </a>  
 </p>
 <br>

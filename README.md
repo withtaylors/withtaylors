@@ -2,12 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiyeon's%20GitHub%20✨ㅤㅤ&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-<h3>☁️ About me ☁️</h3>
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/Jiyeon-Park-216bfd1fbdc44031b68d627ca18cb0a2">
-        <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"> 
-    </a>
-</div>
+
 <h3>☁️ Tech Stack ☁️</h3>
 <div style="display:flex; flex-direction:row;">
   
@@ -34,7 +29,14 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withtaylors&layout=compact&show_icons=true&count_private=true&exclude_repo=Algorithm_SWEA" width=350px/>
   </a>  
 </p>
-<br>
 
+<h3>☁️ About me ☁️</h3>
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.notion.so/Jiyeon-Park-216bfd1fbdc44031b68d627ca18cb0a2">
+        <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"> 
+    </a>
+</div>
+  <br>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithtaylors%2Fhit-counter&count_bg=%23B5E2FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

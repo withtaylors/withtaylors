@@ -16,6 +16,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square&logo=c%2B%2B&logoColor=white)
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   
   <img src="https://img.shields.io/badge/Andoid Studio-3DD84?style=flat-square&logo=android studio&logoColor=white">

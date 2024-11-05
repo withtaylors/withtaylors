@@ -48,10 +48,10 @@
 
 -->
 
-대한항공 @KoreanAir <sub><sup> Aerospace / 항공우주부문 Software 전문인력 (expected to start) </sup></sub>  
-KB증권 @KBSecurities <sub><sup> Customer Platform Development Dept / 고객플랫폼개발부 아르바이트 (2024.09.02 ~ now) </sup></sub>  
-삼성증권 @SamsungSecurities <sub><sup> Digital Technology Team / 디지털기술팀 파트타이머 (2023.12.27 ~ 2024.06.26) </sup></sub>  
-에스와이테크(주) @SYTechnology <sub><sup> 연구보조원 (2022.07.01 ~ 2023.03.01) </sup></sub>  
+Korean Air @KoreanAir <sub><sup> Aerospace Software Specialist / 항공우주부문 Software 전문인력 (Starting on November 18, 2024) </sup></sub><br>
+KB Securities @KBSecurities <sub><sup> Customer Platform Development Dept., Part-time / 고객플랫폼개발부 아르바이트 (2024.09.02 ~ Present) </sup></sub><br>
+Samsung Securities @SamsungSecurities <sub><sup> Digital Technology Team, Part-time / 디지털기술팀 파트타이머 (2023.12.27 ~ 2024.06.26) </sup></sub><br>
+SY Technology Co., Ltd. @SYTechnology <sub><sup> Research Associate / 연구보조원 (2022.07.01 ~ 2023.03.01) </sup></sub>
 
 <br>
 

@@ -36,7 +36,7 @@
 </p>
 
 
-### ☁️ Experiences ☁️
+### ☁️ Work Experiences ☁️
 
 <!--
 | Name                                          | Project Time                 | Detail                                                                                              |

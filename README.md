@@ -59,7 +59,7 @@ SY Technology @SYTechnology <sub><sup> Research Associate / 연구보조원 (202
 <sub><sup><b>대한항공(KoreanAir)</b> Aerospace Software AI Specialist / 항공우주부문 Software AI 전문인력 (2024.11.25 - now )</sup></sub>  
 <sub><sup><b>KB증권(KBSecurities)</b> Customer Platform Development Dept., Part-time / 고객플랫폼개발부 아르바이트 (2024.09.02 - 2024.11.20)</sup></sub>  
 <sub><sup><b>삼성증권(SamsungSecurities)</b> Digital Technology Team, Part-time / 디지털기술팀 파트타이머 (2023.12.27 - 2024.06.26)</sup></sub>  
-<sub><sup><b>에스와이테크(주)(SYTechnology)</b> Research Associate / 연구보조원 (2022.07.01 - 2023.03.01)</sup></sub>  
+<sub><sup><b>에스와이테크(SYTechnology)</b> Research Associate / 연구보조원 (2022.07.01 - 2023.03.01)</sup></sub>  
 
 <br>
 

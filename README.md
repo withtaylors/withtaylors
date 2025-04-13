@@ -62,10 +62,4 @@ SY Technology @SYTechnology <sub><sup> Research Associate / 연구보조원 (202
 <sub><sup><b>에스와이테크(SYTechnology)</b> Research Associate / 연구보조원 (2022.07.01 - 2023.03.01)</sup></sub>  
 
 <br>
-
-<div align="center"> 
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwithtaylors%2Fhit-counter&count_bg=%23B5E2FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 </div>
